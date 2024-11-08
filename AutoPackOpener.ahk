@@ -7,8 +7,8 @@ colorRarePack2 := 0x000000  ; Color at (698, 167)
 colorRarePack3 := 0xFFFFA5  ; Color at (672, 187)
 
 ; Default resolution is 1920x1080
-defaultWidth := 1920
-defaultHeight := 1080
+defaultWidth := 1280
+defaultHeight := 720
 
 coord1 := [718, 206]
 coord2 := [698, 167]
